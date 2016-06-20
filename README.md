@@ -1,13 +1,30 @@
 # Open Trigger
-Trigger actions on the internet with a physical button.<br />
+Trigger actions online with a simple button.<br />
 Developed and maintained by <a href="https://www.acolono.com">acolono GmbH</a>.
 
-##News
+## News
 Find out more about the project at our <a href="https://medium.com/open-trigger">Blog</a>
 
-##About
+## About
 <img src="img/infographic-opentrigger.jpg" alt="Open Trigger Infographic" style="width:100%; height:auto;" />
 
-Soon, you will find here more informations!
+## Repositories
+
+* [opentrigger](https://github.com/acolono/opentrigger/)
+Overview page of the Open Trigger project.
+
+* [opentrigger documentation](https://acolono.gitbooks.io/opentrigger/)
+The documentation of the project in gitbook.
+
+* [opentrigger-otraw2q](https://github.com/acolono/opentrigger-otraw2q)
+Converts bluetooth dump in hex streams.
+
+* [opentrigger-distributor](https://github.com/acolono/opentrigger-distributor)
+Filters the messages from the raw channel and creates cleaned and filtered channels for the use with follow-up systems.
+
+* [opentrigger-nRF51](https://developer.mbed.org/users/0xf10/code/opentrigger-nRF51/)
+Firmware for the [nRF51](https://developer.mbed.org/platforms/Nordic-nRF51-Dongle/) bluetooth hardware device. 
+
+<br />
 
 <small>Open Trigger has been sponsored by <a href="http://www.netidee.at/">netidee</a> - powerful innovations</small>
