@@ -38,8 +38,6 @@ Firmware for the [nRF51](https://developer.mbed.org/platforms/Nordic-nRF51-Dongl
 [opentrigger-6lowpan](https://github.com/osdomotics/osd-contiki/tree/osd/examples/osd/triggerbaord)  
 Software for a 6LoWPAN version is currently in development   
 
-https://github.com/osdomotics/osd-contiki/tree/osd/examples/osd/triggerbaord
-
 <a href="https://github.com/acolono/opentrigger-mobilebutton"><img src="https://github.com/acolono/opentrigger-mobilebutton/blob/master/opentrigger-mobilebutton-logo.png" alt="OpenTrigger distributor Logo" width="100"></a>  
 [opentrigger-mobilebutton](https://github.com/acolono/opentrigger-mobilebutton)  
 Button WebApp for OpenTrigger. Fire up your iOS, Android or Windows Phone WebApp -> Done :).  
