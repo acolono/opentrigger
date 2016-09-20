@@ -16,15 +16,17 @@ Find out more about the project at our <a href="https://medium.com/open-trigger"
 [opentrigger](https://github.com/acolono/opentrigger/)  
 Overview page of the OpenTrigger project.
 
-
 <a href="https://acolono.gitbooks.io/opentrigger/"><img src="img/opentrigger-documentation-logo.png" alt="OpenTrigger Logo" width="100"></a>  
 [opentrigger documentation](https://acolono.gitbooks.io/opentrigger/)  
 The documentation of the project in gitbook.
 
-
 <a href="https://github.com/acolono/opentrigger-otraw2q"><img src="https://github.com/acolono/opentrigger-otraw2q/blob/master/logo-otraw2q.png" alt="OpenTrigger otraw2q Logo" width="100"></a>  
 [opentrigger-otraw2q](https://github.com/acolono/opentrigger-otraw2q)  
 Converts bluetooth dump in hex streams.
+
+<a href="https://github.com/acolono/opentrigger-flic2q"><img src="img/logo-opentrigger-flic2q.png" alt="OpenTrigger Logo flic2q" width="100"></a>  
+[opentrigger-flic2q](https://github.com/acolono/opentrigger-flic2q)  
+Support for [flic](http://flic.io) hardware buttons.  
 
 <a href="https://github.com/acolono/opentrigger-distributor"><img src="https://github.com/acolono/opentrigger-distributor/blob/master/opentrigger-distributor.png" alt="OpenTrigger distributor Logo" width="100"></a>  
 [opentrigger-distributor](https://github.com/acolono/opentrigger-distributor)  
