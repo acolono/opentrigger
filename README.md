@@ -7,7 +7,7 @@ Developed and maintained by <a href="https://www.acolono.com">acolono GmbH</a>.
 ## About
 <img src="img/infographic-opentrigger.jpg" alt="OpenTrigger Infographic" style="width:100%; height:auto;" />
 
-### 6LowPAN FTW!
+### 6LoWPAN FTW!
 <img src="img/opentrigger-infographic-6lowpan.png" alt="OpenTrigger 6LoWPAN Infographic" style="width:100%; height:auto;" />
 
 ## News
