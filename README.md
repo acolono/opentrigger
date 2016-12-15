@@ -39,7 +39,7 @@ Filters the messages from the raw channel and creates cleaned and filtered chann
 [opentrigger-nRF51](https://developer.mbed.org/users/0xf10/code/opentrigger-nRF51/)  
 Firmware for the [nRF51](https://developer.mbed.org/platforms/Nordic-nRF51-Dongle/) bluetooth hardware device.  
 
-<a href="https://github.com/osdomotics/osd-contiki/tree/osd/examples/osd/triggerbaord"><img src="img/logo-opentrigger-6lowpan.png" alt="OpenTrigger 6LoWPAN Button Logo" width="100"></a>  
+<a href="https://github.com/osdomotics/osd-contiki/tree/master/examples/osd/opentrigger-board"><img src="img/logo-opentrigger-6lowpan.png" alt="OpenTrigger 6LoWPAN Button Logo" width="100"></a>  
 [opentrigger-6lowpan](https://github.com/osdomotics/osd-contiki/tree/master/examples/osd/opentrigger-board)  
 Software for a 6LoWPAN HArdware version with LED support.   
 
