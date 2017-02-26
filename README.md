@@ -31,6 +31,11 @@ Converts bluetooth dump in hex streams.
 [opentrigger-flic2q](https://github.com/acolono/opentrigger-flic2q)  
 Support for [flic](http://flic.io) hardware buttons.  
 
+<a href="https://github.com/drupallerina/habi-trigger/blob/master/bttn_client.py"><img src="img/logo-opentrigger-bttn2q.png" alt="OpenTrigger Logo bttn2q" width="100"></a>  
+[opentrigger-bttn2q](https://github.com/drupallerina/habi-trigger/blob/master/bttn_client.py)  
+Support for [bt.tn](http://bt.tn) hardware buttons. 
+Community contribution during the Internet of Things CreateCamp Vienna 2017 #iotccvie
+
 <a href="https://github.com/acolono/opentrigger-distributor"><img src="https://github.com/acolono/opentrigger-distributor/blob/master/opentrigger-distributor.png" alt="OpenTrigger distributor Logo" width="100"></a>  
 [opentrigger-distributor](https://github.com/acolono/opentrigger-distributor)  
 Filters the messages from the raw channel and creates cleaned and filtered channels for the use with follow-up systems.
